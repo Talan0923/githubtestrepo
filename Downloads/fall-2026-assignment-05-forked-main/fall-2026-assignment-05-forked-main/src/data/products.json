@@ -1,0 +1,17 @@
+[
+  {"id":1,"name":"The Sunday Snake Plant","price":34,"category":"Easygoing plants","description":"Sculptural, sturdy, and happy in a sunny spot or a quieter corner.","imageUrl":"./images/plant-01.svg"},
+  {"id":2,"name":"Little Bird’s Nest Fern","price":28,"category":"Easygoing plants","description":"Soft, rippled fronds bring a calm bit of woodland to your shelf.","imageUrl":"./images/plant-02.svg"},
+  {"id":3,"name":"Golden Pothos","price":24,"category":"Easygoing plants","description":"A cheerful trailing classic that’s forgiving while you find your rhythm.","imageUrl":"./images/plant-03.svg"},
+  {"id":4,"name":"Rubber Tree","price":42,"category":"Easygoing plants","description":"Glossy deep-green leaves make a bold, easy-to-love statement.","imageUrl":"./images/plant-04.svg"},
+  {"id":5,"name":"Heartleaf Philodendron","price":26,"category":"Easygoing plants","description":"Sweet heart-shaped leaves spill gently from a bright windowsill.","imageUrl":"./images/plant-05.svg"},
+  {"id":6,"name":"Sunday Stoneware Pot","price":32,"category":"Pots & planters","description":"A softly speckled stoneware home with a warm, handmade feel.","imageUrl":"./images/planter-01.svg"},
+  {"id":7,"name":"Little Terracotta Pot","price":18,"category":"Pots & planters","description":"Classic sun-baked clay with a drainage hole for happy roots.","imageUrl":"./images/planter-02.svg"},
+  {"id":8,"name":"Morrow Ceramic Planter","price":38,"category":"Pots & planters","description":"A tactile, gently rounded planter in a quiet moss-green glaze.","imageUrl":"./images/planter-03.svg"},
+  {"id":9,"name":"Pebble Hanging Planter","price":36,"category":"Pots & planters","description":"Give trailing leaves a little lift with this simple hanging pot.","imageUrl":"./images/planter-04.svg"},
+  {"id":10,"name":"The Everyday Cachepot","price":29,"category":"Pots & planters","description":"An easy, understated cover pot that looks good just about anywhere.","imageUrl":"./images/planter-05.svg"},
+  {"id":11,"name":"Gentle Rain Watering Can","price":31,"category":"Plant care","description":"A slim spout helps deliver a gentle drink right where it’s needed.","imageUrl":"./images/care-01.svg"},
+  {"id":12,"name":"Leaf & Luster Mister","price":16,"category":"Plant care","description":"A fine, refreshing mist for your leafy friends and morning ritual.","imageUrl":"./images/care-02.svg"},
+  {"id":13,"name":"Little Garden Snips","price":22,"category":"Plant care","description":"Sharp, comfortable pruning shears for tidy stems and fresh starts.","imageUrl":"./images/care-03.svg"},
+  {"id":14,"name":"Rooted Potting Mix","price":14,"category":"Plant care","description":"A light, nourishing blend made for indoor plants and healthy roots.","imageUrl":"./images/care-04.svg"},
+  {"id":15,"name":"Plant Parent Field Notes","price":12,"category":"Plant care","description":"A pocket-sized journal for watering dates, new leaves, and little wins.","imageUrl":"./images/care-05.svg"}
+]

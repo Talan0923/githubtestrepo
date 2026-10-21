@@ -1,0 +1,49 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f6f5ef" />
+    <meta name="description" content="Shop thoughtful houseplants, planters, and plant care essentials at Moss & Morrow." />
+    <title>Shop the collection — Moss &amp; Morrow</title>
+    <link rel="stylesheet" href="./src/styles/main.css" />
+    <script type="module" src="./src/main.js"></script>
+  </head>
+  <body>
+    <div class="announcement">A little green goes a long way <span aria-hidden="true">✳</span> Free local delivery over $60</div>
+    <header class="site-header">
+      <a class="brand" href="./index.html" aria-label="Moss and Morrow home">
+        <span class="brand-mark" aria-hidden="true">m.</span><span class="brand-name">moss <span>&amp;</span> morrow</span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="./index.html">Home</a>
+        <a href="./about.html">Our story</a>
+        <a class="active" href="./store.html" aria-current="page">Shop plants <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+    <main class="store-main">
+      <section class="store-heading">
+        <p class="eyebrow"><span class="eyebrow-line"></span> Your next little thing</p>
+        <h1>Find your <em>green.</em></h1>
+        <p>Good company for your windowsill, your slow mornings, and everywhere in between.</p>
+        <span class="store-flower" aria-hidden="true">✳</span>
+      </section>
+      <section class="catalog-section" aria-label="Product catalog">
+        <div class="catalog-topline"><span>THE COLLECTION</span><span>PLANTS &amp; THOUGHTFUL THINGS</span></div>
+        <div id="product-grid" class="product-grid" aria-live="polite" aria-busy="true"></div>
+        <nav class="pagination" aria-label="Product pages">
+          <button id="previous-page" class="page-button" type="button" aria-label="Previous page" disabled><span aria-hidden="true">←</span> Previous</button>
+          <p id="page-indicator" class="page-indicator" aria-live="polite">Page 1 of 3</p>
+          <button id="next-page" class="page-button" type="button" aria-label="Next page">Next <span aria-hidden="true">→</span></button>
+        </nav>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <a class="brand footer-brand" href="./index.html"><span class="brand-mark" aria-hidden="true">m.</span><span class="brand-name">moss <span>&amp;</span> morrow</span></a>
+      <p>Good things grow here.</p>
+      <div class="footer-links"><a href="./about.html">Our story</a><a href="./store.html">Shop</a><a href="mailto:hello@mossandmorrow.example">Say hello</a></div>
+      <small>© 2026 Moss &amp; Morrow. Made with care.</small>
+    </footer>
+  </body>
+</html>
